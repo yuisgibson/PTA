@@ -32,7 +32,7 @@ int main()
 2
 3
 
-循环就行了
+循环就行了。
 
 void PrintN(int N) {
 	for (int i = 1;i <= N;++i)
